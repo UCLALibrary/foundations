@@ -1,0 +1,29 @@
+---
+title: Key Ideas
+---
+## Key Ideas in Learning and Teaching
+
+<!--In this mini-course, we'll often talk about a few key ideas about learning and teaching. There are longer and more scholarly definitions for each of these, but the following simple definitions often match up with many of the personal experiences and characteristics of learning we discussed previously.-->
+
+In this mini-course, we take a practical and applied approach to learning theory, grounding key ideas by exploring how they connect with real experiences.
+
+In this section, we will get started by looking at an example of classroom learning in a university lecture hall, and use it to explore a few key ideas about learning and teaching. Then you'll connect those key ideas with your experiences as a learner, and share your experiences with your team. By the end of this section, you'll have started drafting a short narrative about a memorable, meaningful, or transformative learning experience in your life.
+
+Let's start by watching a quick video of some classroom learning and teaching that illustrates several of the key ideas we will be talking about in this section.
+
+As you watch the video, take notes and look for examples of the following:
+
+* active engagement by both learners and teachers
+* learners interacting with each other to learn and experience new things
+* learners exploring and questioning the status quo or other personal or social norms
+
+https://youtu.be/nqm4HKRGZys?t=1m51s&end=5m02s
+<!-- todo: make this an embedded video -->
+
+## Share your thoughts
+
+With your team, talk about the following:
+
+* What evidence did you see of active engagement by learners? by teachers?
+* What kinds of interactions did you see? How did these compare to the usual approaches to lecture hall instruction?
+* Think about your <a href="{{ 'modules/start/conversation-characteristics/' | relative_url }}" target="_blank">"Top 5" list</a> of the characteristics of memorable, meaningful, and transformative learning. Which of your characteristics were present in this teaching example? Which were not? 

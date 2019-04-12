@@ -1,0 +1,28 @@
+---
+title: Welcome
+---
+## Welcome!
+
+This mini-course is a practical and hands-on exploration of learner-centered design. Our goal will be to reflect on our own experiences as learners and then explore how these experiences shape our beliefs about learning and teaching. Along the way, you and your team will design creative ways to foster learning breakthroughs and address learning challenges.
+
+## What will we learn?
+
+As you actively engage with the activities in this mini-course, you will strengthen your ability to:
+
+* Reflect on your own learning experiences and learn from the experiences of others
+* Relate key ideas in learning and teaching to your own personal experiences
+* Map out the challenges, breakthroughs, and outcomes in a learning process
+* Center your designs around learners and the learning process
+* Create your own personal manifesto for learning and teaching
+* Make storyboards and prototypes of learning materials, lesson plans, and experiences
+* Start creating your own learning narratives and multimedia learning matierals
+
+## How long will it take?
+
+Each section of the course should take about 30-45 minutes, but could take longer, depending on how deep you dive into the discussion, and how involved you get in the creative process.
+
+## Who created this mini-course?
+
+This mini-course is based on the foundational training for <a href="https://uclalibrary.github.io/research-tips/about/" target="_blank">WI+RE</a>, a learner-led design team at UCLA. The initial version of the training was created by Doug Worsham and Shannon Roux. Each cohort of learners that have taken the training have further developed and improved it as well. For a full list of contributors, see our <!-- todo: --><a href="#">credits page</a>.
+
+
