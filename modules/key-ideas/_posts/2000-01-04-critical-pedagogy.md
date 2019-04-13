@@ -15,7 +15,7 @@ Proponents of critical pedagogy have argued that "teachers and students should b
 Building on this idea, bell hooks writes, 
 
 >
-"When everyone in the classroom, teaching and students, recognizes that they are responsible for crating a learning community together, learning is at its most meaningful and useful."
+"When everyone in the classroom, teachers and students, recognizes that they are responsible for creating a learning community together, learning is at its most meaningful and useful."
 >
 <!-- todo: citation -->
 

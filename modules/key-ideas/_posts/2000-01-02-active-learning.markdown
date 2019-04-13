@@ -5,6 +5,9 @@ title: Active Learning
 
 In active learning approaches, both teachers and learners are actively engaged in the learning process. But what does that really mean? Despite being a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!
 
+<!-- todo: develop an interactive reader approach for sections like this - something like a slideshow with large quotes and compelling illustrations -->
+<!-- interactive reader could be made in h5p -->
+
 To get the conversation started, read the following quick definitions and descriptions of active learning from the Cornell University Center for Teaching Excellence <!-- todo: citation and link needed -->:
 
 * Active learning is "anything that involves students in doing things and thinking about the things they are doing" (Bonwell & Eison, 1991, p. 2).

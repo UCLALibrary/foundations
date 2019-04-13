@@ -13,7 +13,7 @@ In your notebook, rapidly brainstorm a concept map related to memorable, meangfu
 1. Place a bubble in the middle of your notebook page labeled "memorable, meangful, and transformative learning."
 2. Create a second group of bubbles the ideas about learning and teaching that are most important for you. You can draw from your "Top 5" list as well as from the "key ideas" presented in this course.
 3. Next - add things we have missed. What ideas do you want to add to your concept map that we have not yet discussed? Resilience? Empathy? ....? Add these to the concept map
-4. Finally, add two or more examples of learning experiences in your life that connect to the ideas in your concept map.
+<!--4. Finally, add two or more examples of learning experiences in your life that connect to the ideas in your concept map.-->
 
 The final product might look something like this:
 
