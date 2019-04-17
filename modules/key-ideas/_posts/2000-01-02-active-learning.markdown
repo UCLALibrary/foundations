@@ -3,7 +3,9 @@ title: Active Learning
 ---
 ## What is active learning?
 
-In active learning approaches, both teachers and learners are actively engaged in the learning process. But what does that really mean? Despite being a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!
+In active learning approaches, both teachers and learners are actively engaged in the learning process. But what does that really mean?
+
+Despite seeming to be a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!
 
 <!-- todo: develop an interactive reader approach for sections like this - something like a slideshow with large quotes and compelling illustrations -->
 <!-- interactive reader could be made in h5p -->
@@ -18,14 +20,29 @@ To get the conversation started, read the following quick definitions and descri
 
 <!-- todo: consider - experiential learning, pair and group work, problem-based learning, desirable difficulty, flow -->
 
-## What are your experiences?
+<div class="card my-5">
+  <div class="card-header">
+    <span>{% include icon-notebook.html %}In your notebook:</span>
+    <!-- alt version for "With your team:" -->
+    <!--
+    <span>{% include icon-team.html %}With your team:</span>
+    -->
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">What are your experiences with active learning?</h3>
+    <p class="card-text">Think of a learning experience you have had that seemed particularly *active* to you. Jot down a quick (1-2 minute) reflection in your notebook on the experience. You might consider one or more of the following questions:</p>
+    <ul>
+        <li>What was the setting and what were you learning?</li>
+        <li>What made the learning "active"? Was it experiential in some way? Collaborative? Challenging? ...?</li>
+        <li>Was this learning experience memorable? Meaninful? Transformative? Why or why not?</li>
+    </ul>
+    <div class="card-footer">
+        <h4>Tips</h4>
+        <ul>
+            <li>An optional list</li>
+            <li>of helpful tips</li>
+        </ul>
+    </div>
+  </div>
+</div>
 
-What are your experiences with "active learning"? What do you think about it?
-
-Think of a learning experience you have had that seemed particularly *active* to you.
-
-Jot down a quick (1-2 minute) reflection in your notebook on the experience. You might consider one or more of the following questions:
-
-* What was the setting and what were you learning?
-* What made the learning "active"? Was it experiential in some way? Collaborative? Challenging? ...?
-* Was this learning experience memorable? Meaninful? Transformative? Why or why not?
