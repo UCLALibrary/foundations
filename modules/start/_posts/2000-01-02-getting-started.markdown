@@ -3,15 +3,13 @@ title: Getting Started
 ---
 ## What do we need to get started?
 
-You're ready!
-
-This mini-course is designed around the idea that sharing our personal experiences with learning is the best possible starting point for learner-centered design. So, that means you have all the background knowledge you need to get started!
-
-<!--In this mini-course you will complete a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your experiences, reflect on key ideas, and roll your sleeves up to start creating storyboards and prototypes.-->
-
 >
 All you really need is a team and a notebook.
 >
+
+You're ready! This mini-course is designed around the idea that sharing our personal learning experiences is the best possible starting point for learner-centered design. So, that means you have all the background knowledge you need to get started!
+
+<!--In this mini-course you will complete a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your experiences, reflect on key ideas, and roll your sleeves up to start creating storyboards and prototypes.-->
 
 <!-- todo: team and notebook visuals -->
 <!-- consider developing css for team activity and notebook activity and introducing them here -->
@@ -26,9 +24,32 @@ Throughout the course you will be jotting down notes and reflections, asking que
 
 ## Ready?
 
-To get started, write your first entry in your notebook:
+<div class="card my-5">
+  <div class="card-header">
+    <span>{% include icon-notebook.html %}In your notebook:</span>
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">What are your hopes? What are you curious about?</h3>
+    <p class="card-text">To get started, write your first entry in your notebook:</p>
+    <ul>
+        <li>What do you hope to learn in this mini-course?</li>
+        <li>What are you most curious about and what questions do you have at this point?</li>
+    </ul>
+    <!--<div class="card-footer">
+        <h4>Tips</h4>
+        <ul>
+            <li>An optional list</li>
+            <li>of helpful tips</li>
+        </ul>
+    </div>
+    -->
+  </div>
+</div>
 
-* What do you hope to learn in this mini-course?
-* What are you most curious about and what questions do you have at this point?
+
+
+
+* 
+* 
 
 <!-- todo: consider disqus comments integration -->

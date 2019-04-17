@@ -4,7 +4,7 @@ title: Learning Reflections
 
 ## When is learning most memorable, meaningful, and transformative?
 
-We learn a lot everyday. But some of the learning we do is particularly special. Maybe it is special because we remember it for a long time, or because it has personal meaning and significance for us. Or maybe it was special because it fundamentally changed how we think, act, and create in the world.
+We learn a lot everyday. And some of the learning we do is particularly special. Maybe it is special because we remember it for a long time, or because it has personal meaning and significance for us. Or maybe it was special because it fundamentally changed how we think, act, and create in the world.
 
 <div class="card my-5 shadow-sm">
   <div class="card-header">
@@ -20,6 +20,11 @@ We learn a lot everyday. But some of the learning we do is particularly special.
         <li>What was the environment like?</li>
         <li>What other impressions or memories do you have of your learning experience?</li>
     </ul>
+    <div class="card-footer">
+        <h4>Need ideas?</h4>
+        <ul>
+            <li>Think about the many contexts in which you learn. For example, you might write about learning to do something creative, or a time you were travelling and learned something about different cultures. Any story or memory you have of an impactful learning experience will work for this exploration!</li>
+        </ul>
   </div>
 </div>
 

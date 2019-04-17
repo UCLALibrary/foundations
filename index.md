@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Want to make something useful for learners?
+## Want to make something useful?
 
 This mini-course is a hands-on, team-based introduction to learner-centered design. It was created to help you quickly develop creative and reflective approaches to learning and teaching. 
 
