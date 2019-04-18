@@ -4,10 +4,10 @@ title: Knowledge Building
 
 ## What is constructivism?
 
-The basic idea of constructivism is that
+The basic ideas of constructivism are that:
 
-1. we learn when we actively *construct* or *build* knowledge
-2. and, in order to build knowledge, we make connections between our previous experiences, current ideas, and the new concepts we are learning.
+1. we learn when we actively *construct* or *build* knowledge;
+2. and that learning involves making connections between our previous experiences and the new concepts we are learning.
 
 In this way our previous experiences are like a foundation or scaffolding which helps us understand new ideas and concepts.
 
