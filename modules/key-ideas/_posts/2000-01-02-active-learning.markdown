@@ -3,9 +3,7 @@ title: Active Learning
 ---
 ## What is active learning?
 
-In active learning approaches, both teachers and learners are actively engaged in the learning process. But what does that really mean?
-
-Even though it might seem like a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!
+In active learning approaches, both teachers and learners are actively engaged in the learning process. But what does that really mean? <!--Even though it might seem like a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!-->
 
 <p>To get the conversation started, work with your team on the following <em>interactive reader</em> on active learning. Note that you can view the activity in full-screen mode by clicking the expand icon in the bottom-right corner of the activity.</p>
 
