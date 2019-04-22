@@ -7,17 +7,12 @@ In active learning approaches, both teachers and learners are actively engaged i
 
 Even though it might seem like a rather simple idea, "active learning" can be notoriously difficult to define. That's why in this and future sections, we will be focused on helping you figure out what these key ideas mean to you!
 
-<!-- todo: develop an interactive reader approach for sections like this - something like a slideshow with large quotes and compelling illustrations -->
-<!-- interactive reader could be made in h5p -->
+<p>To get the conversation started, work with your team on the following <em>interactive reader</em> on active learning. Note that you can view the activity in full-screen mode by clicking the expand icon in the bottom-right corner of the activity.</p>
 
-To get the conversation started, read the following quick definitions and descriptions of active learning from the Cornell University Center for Teaching Excellence <!-- todo: citation and link needed -->:
+<script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-* Active learning is "anything that involves students in doing things and thinking about the things they are doing" (Bonwell & Eison, 1991, p. 2).
-* Felder & Brent (2009) define active learning as anything "other than simply watching, listening and taking notes" (p. 2).
-* Active learning strategies can be as short as a few minutes long.
-* Active learning techniques can be integrated into a lecture or any other classroom setting relatively easily. Even large classrooms can involve learning activities beyond the traditional lecture format.
-<!-- todo: consider prototyping a quote/slideshow that might make this more visual and appealing -->
-
+<iframe src="https://ccle.ucla.edu/mod/hvp/embed.php?id=2434406" width="100%" frameborder="1" allowfullscreen="allowfullscreen"></iframe><script src="https://ccle.ucla.edu/mod/hvp/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- todo: make frameborder better match theme -->
 <!-- todo: consider - experiential learning, pair and group work, problem-based learning, desirable difficulty, flow -->
 
 <div class="card my-5">
