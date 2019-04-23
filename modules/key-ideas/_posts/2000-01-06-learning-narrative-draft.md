@@ -15,7 +15,7 @@ Once you have a few ideas for learning experiences that you might want to write 
 
 <!-- todo: insert learning narrative playlist -->
 
-<div class="card my-5">
+<div class="card my-5 shadow-sm">
   <div class="card-header">
     <span>{% include icon-notebook.html %}In your notebook:</span>
   </div>

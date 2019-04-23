@@ -24,7 +24,7 @@ Throughout the course you will be jotting down notes and reflections, asking que
 
 ## Ready?
 
-<div class="card my-5">
+<div class="card my-5 shadow-sm">
   <div class="card-header">
     <span>{% include icon-notebook.html %}In your notebook:</span>
   </div>
@@ -45,11 +45,5 @@ Throughout the course you will be jotting down notes and reflections, asking que
     -->
   </div>
 </div>
-
-
-
-
-* 
-* 
 
 <!-- todo: consider disqus comments integration -->
