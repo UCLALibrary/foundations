@@ -10,7 +10,7 @@ Critical pedagogy involves critical questioning of the status quo, and often is 
 Adapted from Ira Shor, Empowering Education, 129
 >
 
-Proponents of critical pedagogy have argued that "teachers and students should be co-creators of knowledge within the classroom, and dominant ideologies should be exposed for critique and discussion."
+Proponents of critical pedagogy have argued that "teachers and students should be co-creators of knowledge within the classroom, and dominant ideologies should be exposed for critique and discussion" (Anderson & Herr, 2007).
 
 Building on this idea, bell hooks writes, 
 
