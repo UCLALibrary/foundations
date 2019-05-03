@@ -20,7 +20,7 @@ While this mini-course can be taken individually, it works best when you can wor
 
 <h3>{% include icon-notebook.html %}And why a notebook?</h3>
 
-Throughout the course you will be jotting down notes and reflections, asking questions, and getting started with prototyping and storyboarding. You will want to keep all of this great work organized into some sort of notebook. It could digital, e.g., a google doc, or on paper. The most important thing is that you dedicate time and energy to exploring and capturing your thoughts and ideas as you learn!
+Throughout the course you will jot down notes and reflections, ask questions, and create prototypes and storyboards. You will want to keep all of this great work organized into some sort of notebook. It could be digital, e.g., in a google doc, or on paper. The most important thing is that you dedicate time and energy to exploring and capturing your thoughts and ideas as you learn!
 
 ## Ready?
 
