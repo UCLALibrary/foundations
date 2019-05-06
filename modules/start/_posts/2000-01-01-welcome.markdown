@@ -1,5 +1,7 @@
 ---
 title: Welcome
+banner: /img/banners/create-cropped.jpg
+banner-alt: a pencil drawing of the word create
 ---
 ## Welcome!
 

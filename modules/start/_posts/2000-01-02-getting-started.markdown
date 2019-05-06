@@ -1,13 +1,11 @@
 ---
 title: Getting Started
+banner: /img/banners/team-and-notebook-cropped.jpg
+banner-alt: "a notebook with a hand written message that says, all you really need is a team and a notebook"
 ---
 ## What do we need to get started?
 
->
-All you really need is a team and a notebook.
->
-
-You're ready! This mini-course is designed around the idea that sharing our personal learning experiences is the best possible starting point for learner-centered design. So, that means you have all the background knowledge you need to get started!
+You're ready! This mini-course is designed around the idea that sharing our personal learning experiences is the best possible starting point for learner-centered design. So, that means you have everything you need to get started!
 
 <!--In this mini-course you will complete a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your experiences, reflect on key ideas, and roll your sleeves up to start creating storyboards and prototypes.-->
 
