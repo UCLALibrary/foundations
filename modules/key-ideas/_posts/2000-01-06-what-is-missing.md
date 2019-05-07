@@ -1,5 +1,8 @@
 ---
 title: What's missing?
+banner: /img/banners/brainstorm-355948-2400.jpg
+banner-alt: "A light bulb in the center of a concept map."
+comments: true
 ---
 ## What are we missing?
 <!-- todo: consider - topic mapping activity - questions - some integrative activity that brings together top 5 with key ideas and asks - what is missing? -->
