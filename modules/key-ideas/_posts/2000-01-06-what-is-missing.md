@@ -34,6 +34,8 @@ So far you have identified your top charactertistics for memorable, meaningful, 
   <div class="card-body">
     <h3 class="card-title">Share your concept map with a member of your team.</h3>
     <p class="card-text">Be sure to highlight new key ideas that you added to your map that we have not fully addressed in this mini-course.</p>
+    <h3>Add a comment on what we're missing below.</h3>
+    <p>Help us improve this course by adding your suggestions for key ideas to the comment thread below. Happy with what you have learned so far? You can also use the comments to let us know what you have appreciated about this mini-course!</p>
     <!--
     <ul>
         <li>An optional list of steps</li>
