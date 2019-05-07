@@ -14,7 +14,10 @@ layout: base
                     {{ content }}
 					{% include next_in_module.html %}
 					{% if prev or next %}
-						<hr />
+				    <hr />
+                    <a target="_blank" href="{{site.git_edit_address}}/{{ page.path }}" class="btn btn-default githubEditButton" role="button">
+                <i class="fa fa-pencil fa-lg"></i> Improve this page</a>
+                    <hr />
 					{% endif %}
 					{% if prev %}
 						<div class="pagination-section pull-left">
