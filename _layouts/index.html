@@ -5,12 +5,10 @@ layout: base
 <!-- Banner -->
 <div class="jumbotron">
 	<div class="container text-center">
-		<!-- take this image out for now
         {% if site.jumbotron_image %}
-			<img src="{{ site.baseurl }}/img/{{ site.jumbotron_image }}"
-			     alt="{{ site.title }} Icon" />
+			<img src="{{ site.jumbotron_image | absolute_url }}" class="img-fluid" style="width: 50%;"
+			     alt="A pencil drawing of the word CREATE written on a blank piece of paper." />
 		{% endif %}
-        -->
 		<header>
 			<h1>{{ site.data.course.title }}</h1>
                 <p>{{ site.data.course.description }}</p>
