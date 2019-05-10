@@ -24,6 +24,6 @@ Each module of the mini-course should take about 90 minutes, but could take long
 
 ## Who created this mini-course?
 
-This mini-course is based on the foundational training for <a href="https://uclalibrary.github.io/research-tips/about/" target="_blank">WI+RE</a>, a learner-led design team at UCLA. The initial version of the training was created by Doug Worsham and Shannon Roux. Each cohort of learners that have taken the training have further developed and improved it as well. For a full list of contributors, see our <!-- todo: --><a href="#">credits page</a>.
+This mini-course is based on the foundational training for <a href="https://uclalibrary.github.io/research-tips/about/" target="_blank">WI+RE</a>, a learner-led design team at UCLA. The initial version of the training was created by Doug Worsham and Shannon Roux. Each cohort of learners that have taken the training have further developed and improved it as well. For a full list of contributors, see our <a href="{{ '/modules/resources/thank-yous/' | absolute_url }}">credits page</a>.
 
 
