@@ -13,7 +13,6 @@ layout: base
                     {% endif %}
                     {{ content }}
 					{% include next_in_module.html %}
-					{% if prev or next %}
 				    <hr />
                     <a target="_blank" href="{{site.git_edit_address}}/{{ page.path }}" class="btn btn-default githubEditButton" role="button">
                 <i class="fa fa-pencil fa-lg"></i> Improve this page</a>
@@ -43,6 +42,7 @@ layout: base
                             
                     {% endif %}
                     <!-- end comments -->
+                    {% if prev or next %}
                     <hr />
 					{% endif %}
 					{% if prev %}
