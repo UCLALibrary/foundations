@@ -15,6 +15,20 @@ Foundations in Learner-Centered Design is an online mini-course that offers a ha
 
 We welcome contributions and ideas for improvement! Feel free to click the "Improve this page" button on the bottom of any course page to suggest improvements. You can also fork the site, make your changes, and then submit a pull request. See how to [fork a repository](https://help.github.com/en/articles/fork-a-repo) for help getting started.
 
+### Where's the course content?
+
+The content for the course is found in the [modules folder](https://github.com/UCLALibrary/foundations/tree/gh-pages/modules). Every module in the course has a subfolder inside the modules folder. And inside every module folder, you will find a special folder called `_posts`, eg. `key-ideas/_posts`. Inside the folder called `_posts`, you will find an `html` or `markdown` file for each page in the module. The filenames for this files start with the date in the format `YYYY-MM-DD-sectionname.md`. The date determines the order of the sections in the module.
+
+An example of the file layout for this course:
+
+```
+modules/key-ideas/_posts/2000-01-01-key-ideas.html
+modules/key-ideas/_posts/2000-01-02-active-learning.html
+...
+```
+
+See [https://howto.p2pu.org/modules/tutorial/start/](https://howto.p2pu.org/modules/tutorial/start/) for more information on the structure and organization of this course.
+
 ## Submitting issues
 
 You can also suggest ideas for improvement on our [issues page](https://github.com/UCLALibrary/foundations/issues).
