@@ -2,6 +2,8 @@
 
 > Launch a learner-centered design team and start making things together with this quick and practical mini-course.
 
+Website: [https://uclalibrary.github.io/foundations/](https://uclalibrary.github.io/foundations/)
+
 ## Overview
 
 Foundations in Learner-Centered Design is an online mini-course that offers a hands-on, team-based introduction to learner-centered design. It was created to help teams quickly develop creative and reflective approaches to learning and teaching.
@@ -28,6 +30,16 @@ modules/key-ideas/_posts/2000-01-02-active-learning.html
 ```
 
 See [https://howto.p2pu.org/modules/tutorial/start/](https://howto.p2pu.org/modules/tutorial/start/) for more information on the structure and organization of this course.
+
+### What are "interactive readers"?
+
+In this course we use *interactive readers* to quickly present key ideas on teaching and learning (aka "learning theory). Our hope is that these readers are:
+
+* very short (i.e., sentences and paragraphs instead of articles)
+* interactive in that they prompt the reader to engage with the text in multiple ways
+* potentially collaborative in that they can be completed as a team activity (but also individually, if necessary)
+
+The interactive readers were created using [h5p](https://h5p.org/), a free tool for creating interactive content. Our h5p activities are currently hosted in UCLA Library's Moodle site. To suggest an improvement or change to one of the interactive readers, please submit an [issues](https://github.com/UCLALibrary/foundations/issues) letting us know your ideas and advice!
 
 ## Submitting issues
 
