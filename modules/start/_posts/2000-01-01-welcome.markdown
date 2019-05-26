@@ -5,13 +5,12 @@ banner-alt: a pencil drawing of the word create
 ---
 ## Welcome!
 
-This mini-course is a practical and hands-on exploration of learner-centered design. Our goal will be to reflect on our own experiences as learners and then explore how these experiences shape our beliefs about learning and teaching. Along the way, you and your team will design creative ways to foster learning breakthroughs and address learning challenges.
+In this mini-course you will explore learner-centerd design by completing a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your learning experiences, reflect on key ideas in teaching and learning, and roll your sleeves up to start creating storyboards and prototypes.
 
 ## What will we learn?
 
 As you actively engage with the activities in this mini-course, you will strengthen your ability to:
 
-* Reflect on your own learning experiences and learn from the experiences of others
 * Relate key ideas in learning and teaching to your own personal experiences
 * Map out the challenges, breakthroughs, and outcomes in a learning process
 * Center your designs around learners and the learning process

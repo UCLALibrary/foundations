@@ -5,18 +5,13 @@ banner-alt: "a notebook with a hand written message that says, all you really ne
 ---
 ## What do we need to get started?
 
-You're ready! This mini-course is designed around the idea that sharing our personal learning experiences is the best possible starting point for learner-centered design. So, that means you already have everything you need to get started!
+You're ready! This mini-course is designed around the idea that sharing our learning experiences is the best possible starting point for learner-centered design. So, that means you already have everything you need to get started!
 
-And that is also why the readings in this course are all very short (i.e., paragraphs instead of articles), and are presented as interactive readers that can be completed quickly either on your own or with your team. Similarly, the videos in the course are all short and to the point.
+And that is also why the readings in this course are all very short (i.e., paragraphs instead of articles), and are presented as interactive readers that can be completed quickly, either on your own or with your team. Similarly, the videos in the course are all short and to the point.
 
-In this course the learning doesn't happen on the screen, but through your reflections and conversations.
+In other words, the learning doesn't happen on the screen, but through your reflections, conversations, and creative work.
 
 All you really need is a team and a notebook.
-
-<!--In this mini-course you will complete a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your experiences, reflect on key ideas, and roll your sleeves up to start creating storyboards and prototypes.-->
-
-<!-- todo: team and notebook visuals -->
-<!-- consider developing css for team activity and notebook activity and introducing them here -->
 
 <h3><img src="{{ '/img/icons/np_talk_2391682_000000_84.png' | relative_url }}" alt="Speech bubble icon" class="mr-2 image-line-height">Why a team?</h3>
 
