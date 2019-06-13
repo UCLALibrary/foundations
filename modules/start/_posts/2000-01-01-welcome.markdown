@@ -5,7 +5,7 @@ banner-alt: a pencil drawing of the word create
 ---
 ## Welcome!
 
-In this mini-course you will explore learner-centerd design by completing a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your learning experiences, reflect on key ideas in teaching and learning, and roll your sleeves up to start creating storyboards and prototypes.
+In this mini-course you will explore learner-centered design by completing a series of practical, creative, and hands-on activities. Along the way, you will write about and discuss your learning experiences, reflect on key ideas in teaching and learning, and roll your sleeves up to start creating storyboards and prototypes.
 
 ## What will we learn?
 
