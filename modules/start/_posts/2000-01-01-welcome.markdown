@@ -2,6 +2,7 @@
 title: Welcome
 banner: /img/banners/create-cropped.jpg
 banner-alt: a pencil drawing of the word create
+comments: true
 ---
 ## Welcome!
 
@@ -31,4 +32,7 @@ Each module of the mini-course should take about 90 minutes, but could take long
 
 This mini-course is based on the foundational training for <a href="https://uclalibrary.github.io/research-tips/about/" target="_blank">WI+RE</a>, a learner-led design team at UCLA. The initial version of the training was created by Doug Worsham and Shannon Roux. Each cohort of learners that have taken the training have further developed and improved it as well. For a full list of contributors, see our <a href="{{ '/modules/resources/thank-yous/' | absolute_url }}">credits page</a>.
 
+## Thinking about taking this course?
+
+If you are thinking about taking this course, say hi in the comments below! Feel free to introduce yourself and let us know your goals and hopes for this learning experience! Also, let us know if you have any questions as you get started!
 
