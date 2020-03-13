@@ -11,7 +11,7 @@ So far you have identified your top charactertistics for memorable, meaningful, 
 
 <div class="card my-5 shadow-sm">
   <div class="card-header">
-    <span>{% include icon-notebook.html %}In your notebook:</span>
+    <span><a id="concept-mapping"></a>{% include icon-notebook.html %}In your notebook: Concept Mapping</span>
   </div>
   <div class="card-body">
     <h3 class="card-title">Concept Mapping</h3>
@@ -29,7 +29,7 @@ So far you have identified your top charactertistics for memorable, meaningful, 
 
 <div class="card my-5 shadow-sm">
   <div class="card-header">
-    <span>{% include icon-team.html %}With your team:</span>
+    <span><a id="what-is-missing"></a>{% include icon-team.html %}With your team: What's missing?</span>
   </div>
   <div class="card-body">
     <h3 class="card-title">Share your concept map with a member of your team.</h3>

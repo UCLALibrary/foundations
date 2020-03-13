@@ -25,13 +25,13 @@ Throughout the course you will jot down notes and reflections, ask questions, an
 
 <div class="card my-5 shadow-sm">
   <div class="card-header">
-    <span>{% include icon-notebook.html %}In your notebook:</span>
+    <span><a id="hopes"></a>{% include icon-notebook.html %}In your notebook: Hopes &amp; Goals</span>
   </div>
   <div class="card-body">
-    <h3 class="card-title">What are your hopes? What are you curious about?</h3>
+    <h3 class="card-title">What are your hopes? What are your goals? What are you curious about?</h3>
     <p class="card-text">To get started, write your first entry in your notebook:</p>
     <ul>
-        <li>What do you hope to learn in this mini-course?</li>
+        <li>What do you hope to learn, do, and create in this mini-course?</li>
         <li>What are you most curious about and what questions do you have at this point?</li>
     </ul>
     <!--<div class="card-footer">
