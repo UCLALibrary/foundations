@@ -4,7 +4,7 @@
 	<!-- Brand and toggle get grouped for better mobile display -->
 	<div class="navbar-header">
 		<a href="#" class="navbar-toggle" data-toggle="collapse" data-target="#p2pu-menu">
-			<i class="fa fa-bars"></i>
+			<i class="fa fa-bars" aria-hidden="false"></i><span class="sr-only">Navigation menu</span>
 		</a>
 	</div>
 
@@ -13,7 +13,7 @@
 		<div class="collapse navbar-collapse" id="p2pu-menu">
 			<ul class="nav navbar-nav">
 				<li>
-					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
+					<a href="{{ site.baseurl }}/"><i class="fa fa-home" aria-hidden="true"></i><span class="sr-only">Home</span></a>
 				</li>
 				{% for module in site.data.course.modules %}
 					{% assign first_post = site.categories[module]|reverse|first %}
