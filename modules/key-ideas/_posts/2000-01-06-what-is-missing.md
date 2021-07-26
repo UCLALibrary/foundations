@@ -16,9 +16,9 @@ So far you have identified your top charactertistics for memorable, meaningful, 
   <div class="card-body">
     <h3 class="card-title">Concept Mapping</h3>
     <p class="card-text">Let's bring this together with a concept map summarizing what you have learned so far.</p>
-    <p>In your notebook, rapidly brainstorm a concept map related to memorable, meangful, and transformative learning. There are many ways to do this, so feel free to explore your own approach, or to follow the suggestions below.</p>
+    <p>In your notebook, rapidly brainstorm a concept map related to memorable, meaningful, and transformative learning. There are many ways to do this, so feel free to explore your own approach, or to follow the suggestions below.</p>
     <ul>
-        <li>Place a bubble in the middle of your notebook page labeled "memorable, meangful, and transformative learning."</li>
+        <li>Place a bubble in the middle of your notebook page labeled "memorable, meaningful, and transformative learning."</li>
         <li>Create a second group of bubbles the ideas about learning and teaching that are most important for you. You can draw from your "Top 5" list as well as from the "key ideas" presented in this course.</li>
         <li>Next - add things we have missed. What ideas do you want to add to your concept map that we have not yet discussed? Resilience? Empathy? ....? Add the ideas we have missed to your concept map.</li>
     </ul>
